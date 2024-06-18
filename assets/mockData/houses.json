@@ -1,0 +1,151 @@
+{
+  "houses": [
+    {
+      "id": 1,
+      "address": {
+        "street": "123 Maple Street",
+        "city": "Springfield",
+        "state": "IL",
+        "zip": "62701"
+      },
+      "location": [28.50176104682097, 77.42572720393319],
+      "price": 250000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFeet": 1500,
+      "features": [
+        "garage",
+        "fenced yard",
+        "central air",
+        "garage",
+        "fenced yard",
+        "central air"
+      ],
+      "about": "Beautifully built-Up house located at 18-Meter wide road north east facing having 9 bedrooms with modern attached bathrooms, well-Designed home modular kitchen with one beautiful lounge for a party, having pooja room and servant quarters with a big hall on the terrace for gym purpose with washroom. This property is well located at vip sector facing northeast well-Maintained house just 4-5-Year old, close proximity of metro, temple, hospitals, banks, and atms.Reasonable price according to a grade sector. Very good property is available at a very reasonable price. For more information please contact us we have all types of property in noida's each and every sector.",
+      "imageURL": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1718629174~exp=1718632774~hmac=4b0a263a3ee021edf5bd8eeebc82518cdacc3d6c21be32800e0037276f5938bb&w=2000"
+    },
+    {
+      "id": 2,
+      "address": {
+        "street": "456 Oak Avenue",
+        "city": "Lincoln",
+        "state": "NE",
+        "zip": "68510"
+      },
+      "location": [28.50176104682097, 77.42531786433258],
+
+      "price": 320000,
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "squareFeet": 2000,
+      "features": [
+        "pool",
+        "basement",
+        "deck",
+        "garage",
+        "fenced yard",
+        "central air"
+      ],
+      "about": "Beautifully built-Up house located at 18-Meter wide road north east facing having 9 bedrooms with modern attached bathrooms, well-Designed home modular kitchen with one beautiful lounge for a party, having pooja room and servant quarters with a big hall on the terrace for gym purpose with washroom. This property is well located at vip sector facing northeast well-Maintained house just 4-5-Year old, close proximity of metro, temple, hospitals, banks, and atms.Reasonable price according to a grade sector. Very good property is available at a very reasonable price. For more information please contact us we have all types of property in noida's each and every sector.",
+      "imageURL": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1718629174~exp=1718632774~hmac=4b0a263a3ee021edf5bd8eeebc82518cdacc3d6c21be32800e0037276f5938bb&w=2000"
+    },
+    {
+      "id": 3,
+      "address": {
+        "street": "789 Pine Lane",
+        "city": "Madison",
+        "state": "WI",
+        "zip": "53703"
+      },
+      "location": [28.50176104682097, 77.42531786433258],
+
+      "price": 275000,
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "squareFeet": 1600,
+      "features": [
+        "fireplace",
+        "hardwood floors",
+        "sunroom",
+        "garage",
+        "fenced yard",
+        "central air"
+      ],
+      "about": "Beautifully built-Up house located at 18-Meter wide road north east facing having 9 bedrooms with modern attached bathrooms, well-Designed home modular kitchen with one beautiful lounge for a party, having pooja room and servant quarters with a big hall on the terrace for gym purpose with washroom. This property is well located at vip sector facing northeast well-Maintained house just 4-5-Year old, close proximity of metro, temple, hospitals, banks, and atms.Reasonable price according to a grade sector. Very good property is available at a very reasonable price. For more information please contact us we have all types of property in noida's each and every sector.",
+      "imageURL": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1718629174~exp=1718632774~hmac=4b0a263a3ee021edf5bd8eeebc82518cdacc3d6c21be32800e0037276f5938bb&w=2000"
+    },
+    {
+      "id": 4,
+      "address": {
+        "street": "101 Birch Road",
+        "city": "Boulder",
+        "state": "CO",
+        "zip": "80301"
+      },
+      "location": [28.50176104682097, 77.42531786433258],
+
+      "price": 450000,
+      "bedrooms": 5,
+      "bathrooms": 4,
+      "squareFeet": 3000,
+      "features": [
+        "mountain view",
+        "solar panels",
+        "home office",
+        "garage",
+        "fenced yard",
+        "central air"
+      ],
+      "about": "Beautifully built-Up house located at 18-Meter wide road north east facing having 9 bedrooms with modern attached bathrooms, well-Designed home modular kitchen with one beautiful lounge for a party, having pooja room and servant quarters with a big hall on the terrace for gym purpose with washroom. This property is well located at vip sector facing northeast well-Maintained house just 4-5-Year old, close proximity of metro, temple, hospitals, banks, and atms.Reasonable price according to a grade sector. Very good property is available at a very reasonable price. For more information please contact us we have all types of property in noida's each and every sector.",
+      "imageURL": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1718629174~exp=1718632774~hmac=4b0a263a3ee021edf5bd8eeebc82518cdacc3d6c21be32800e0037276f5938bb&w=2000"
+    },
+    {
+      "id": 5,
+      "address": {
+        "street": "202 Cedar Court",
+        "city": "Austin",
+        "state": "TX",
+        "zip": "73301"
+      },
+      "location": [28.495896339943474, 77.43390093245644],
+      "price": 380000,
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "squareFeet": 2500,
+      "features": [
+        "open floor plan",
+        "gourmet kitchen",
+        "walk-in closets",
+        "garage",
+        "fenced yard",
+        "central air"
+      ],
+      "about": "Beautifully built-Up house located at 18-Meter wide road north east facing having 9 bedrooms with modern attached bathrooms, well-Designed home modular kitchen with one beautiful lounge for a party, having pooja room and servant quarters with a big hall on the terrace for gym purpose with washroom. This property is well located at vip sector facing northeast well-Maintained house just 4-5-Year old, close proximity of metro, temple, hospitals, banks, and atms.Reasonable price according to a grade sector. Very good property is available at a very reasonable price. For more information please contact us we have all types of property in noida's each and every sector.",
+      "imageURL": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1718629174~exp=1718632774~hmac=4b0a263a3ee021edf5bd8eeebc82518cdacc3d6c21be32800e0037276f5938bb&w=2000"
+    },
+    {
+      "id": 6,
+      "address": {
+        "street": "303 Elm Street",
+        "city": "Portland",
+        "state": "OR",
+        "zip": "97201"
+      },
+      "location": [28.495896339943474, 77.43390093245644],
+      "price": 290000,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "squareFeet": 1800,
+      "features": [
+        "garden",
+        "patio",
+        "updated appliances",
+        "garage",
+        "fenced yard",
+        "central air"
+      ],
+      "about": "Beautifully built-Up house located at 18-Meter wide road north east facing having 9 bedrooms with modern attached bathrooms, well-Designed home modular kitchen with one beautiful lounge for a party, having pooja room and servant quarters with a big hall on the terrace for gym purpose with washroom. This property is well located at vip sector facing northeast well-Maintained house just 4-5-Year old, close proximity of metro, temple, hospitals, banks, and atms.Reasonable price according to a grade sector. Very good property is available at a very reasonable price. For more information please contact us we have all types of property in noida's each and every sector.",
+      "imageURL": "https://img.freepik.com/free-photo/modern-residential-district-with-green-roof-balcony-generated-by-ai_188544-10276.jpg?t=st=1718629174~exp=1718632774~hmac=4b0a263a3ee021edf5bd8eeebc82518cdacc3d6c21be32800e0037276f5938bb&w=2000"
+    }
+  ]
+}
