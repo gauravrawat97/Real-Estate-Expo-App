@@ -1,13 +1,7 @@
 import { useNavigation } from "@react-navigation/native";
 import React, { useState } from "react";
-import {
-  Button,
-  SafeAreaView,
-  StyleSheet,
-  Text,
-  TextInput,
-  View,
-} from "react-native";
+import { SafeAreaView, StyleSheet, Text, TextInput, View } from "react-native";
+import ButtonComponent from "../components/Button";
 import { Colors } from "../utils/Colors";
 const Login = () => {
   const [email, setEmail] = useState("");
@@ -63,7 +57,11 @@ const Login = () => {
         {passwordError ? (
           <Text style={styles.error}>{passwordError}</Text>
         ) : null}
-        <Button title="Login" onPress={handleLogin} />
+        <ButtonComponent
+          btnAction={handleLogin}
+          text={"Login"}
+          btnContainerStyle={styles.btnStyle}
+        />
       </View>
     </SafeAreaView>
   );
@@ -73,7 +71,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: "center",
-    padding: 16,
+    margin: 16,
   },
   form: {
     justifyContent: "center",
@@ -88,6 +86,15 @@ const styles = StyleSheet.create({
   error: {
     color: Colors.Red,
     marginBottom: 12,
+  },
+  btnStyle: {
+    borderWidth: 1,
+    borderColor: Colors.Black,
+    alignSelf: "center",
+    justifyContent: "center",
+    paddingHorizontal: 30,
+    paddingVertical: 10,
+    borderRadius: 8,
   },
 });
 
