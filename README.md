@@ -8,8 +8,13 @@ Welcome to the Real Estate Expo App repository! This app is designed to help use
 
 - Browse through a wide range of property listings.
 - View detailed information about each property, including images, price, location, and more.
-- Add properties to your favorites to keep track of your preferred listings.
-- Easily navigate through the app with an intuitive user interface.
+- Ability to unlock properties which are near you.
+- Push Notification when you are unlocking the properties.
+
+## Demo
+
+![](https://github.com/gauravrawat97/Real-Estate-Expo-App/blob/main/demo.gif)
+
 
 ## Installation
 
